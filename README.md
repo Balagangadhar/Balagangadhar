@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ... Identity and Access Management tools(OpenAM and Keycloak)
+- 🌱 I’m currently learning ... Microservices | Event Driven Programming | real world k8s 
+- 💬 Ask me about ... Java | Javascript | Computational Physics | India 
+- 📫 How to reach me: ... 🔫 me an email to : balagangadhar85@gmail.com 
+- 😄 Pronouns: ... He | Him 
+- ⚡ Fun fact: ... I walked barefoot in Berlin 10 years back when temperature was around 4 degree Celsius (Broken shoes, you know)
 <!--
 **Balagangadhar/Balagangadhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
